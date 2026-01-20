@@ -1,6 +1,23 @@
 {
   "name": "linked-chain",
-  "module": "src/linked-chain.ts",
+  "version": "1.0.0",
+  "module": "./dist/index.mjs",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.js",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "bun run build.ts",
+    "prepublishOnly": "bun run build"
+  },
   "description": "A self-aware, time-traveling graph data structure for TypeScript.",
   "type": "module",
   "devDependencies": {
