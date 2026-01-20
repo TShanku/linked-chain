@@ -19,6 +19,9 @@
     "prepublishOnly": "bun run build"
   },
   "description": "A self-aware, time-traveling graph data structure for TypeScript.",
+  "publishConfig": {
+    "access": "public"
+  },
   "type": "module",
   "devDependencies": {
     "@types/bun": "latest"
