@@ -1,6 +1,6 @@
 # LinkedChain
 
-**A Self-Aware, Time-Traveling Graph Data Structure for TypeScript.**
+**A Temporal, Node-Based Graph Data Structure for TypeScript.**
 
 ---
 
